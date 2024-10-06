@@ -3,6 +3,7 @@ Supervised machine learning is a widely used form of artificial intelligence. Th
 
 <div align="center">
   <img src="https://github.com/M4mbo/Supervised_Approaches_to_CIFAR10/assets/115642529/e5f902d9-c636-4373-9431-8a50057a1218" width=500px>
+  <p><em>CIFAR10 dataset. Sample of images with corresponding labels.</em></p>
 </div>
 
 ## Deep Linear NN
