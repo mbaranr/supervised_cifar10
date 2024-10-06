@@ -12,8 +12,8 @@ Supervised machine learning is a widely used form of artificial intelligence. Th
   <img src="https://github.com/m4mbo/supervised-cifar10/assets/115642529/bc32060b-7f07-412c-a6e8-a8a13f8a9b17" height=300px>
 </div>
 
-Testing Loss: 1.516066481353371
-Testing Accuracy: 0.4617999792098999
+Testing Loss: 1.516
+Testing Accuracy: 0.462
 
 ## Deep CNN
 
@@ -24,8 +24,8 @@ Testing Accuracy: 0.4617999792098999
   <img src="https://github.com/m4mbo/supervised-cifar10/assets/115642529/4719cee4-b118-4e50-a523-34c0304367fd" height=300px>
 </div>
 
-Testing Loss: 1.1094991602715414
-Testing Accuracy: 0.6746999621391296
+Testing Loss: 1.109
+Testing Accuracy: 0.675
 
 ### Data Augmentation
 
@@ -34,8 +34,8 @@ Testing Accuracy: 0.6746999621391296
   <img src="https://github.com/m4mbo/supervised-cifar10/assets/115642529/6020b606-9952-489b-92b5-80fad29d2d9c" height=300px>
 </div>
 
-Testing Loss: 0.8757611672589733
-Testing Accuracy: 0.7076999545097351
+Testing Loss: 0.876
+Testing Accuracy: 0.708
 
 ## Pre-trained ResNet18
 
@@ -45,8 +45,8 @@ Testing Accuracy: 0.7076999545097351
   <img src="https://github.com/m4mbo/supervised-cifar10/assets/115642529/90ca2dd1-7b7e-4677-aba0-2ce14ae9b56d" height=300px>
 </div>
 
-Testing Loss: 0.7395002558163017
-Testing Accuracy: 0.8202999830245972
+Testing Loss: 0.740
+Testing Accuracy: 0.820
 
 ### Resized (224,224)px images
 
@@ -55,8 +55,8 @@ Testing Accuracy: 0.8202999830245972
   <img src="https://github.com/m4mbo/supervised-cifar10/assets/115642529/9c25b281-e898-4b75-8d48-358ae367021c" height=300px>
 </div>
 
-Testing Loss: 0.18219238568014304
-Testing Accuracy: 0.9521999955177307
+Testing Loss: 0.182
+Testing Accuracy: 0.952
 
 ## Credits
 * [m4mbo](https://github.com/m4mbo) - Code
