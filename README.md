@@ -60,7 +60,7 @@ Testing Loss: 0.182
 Testing Accuracy: 0.952
 
 ## Credits
-* [m4mbo](https://github.com/m4mbo) - Code.
+* [mbaranr](https://github.com/mbaranr) - Code.
 * [LMH](https://www.lmh.ox.ac.uk/) summer program on 'AI and ML: Advanced Applications' - Theory.
 
 
